@@ -6,4 +6,4 @@ Alzheimer's disease| CNN| MRIimages| CNN+ SVM | CNN+ LSTM
 
 •Hybrid models allow us to integrate the best features of multiple algorithms, achieving more robust classification results.
 
-•CNN + SVM (Support Vector Machine) and CNN + LSTM (Long Short-Term Memory)
+•CNN + SVM (Support Vector Machine) and CNN + LSTM (Long Short-Term Memory) 
